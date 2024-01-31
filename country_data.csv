@@ -1,0 +1,53 @@
+
+
+
+
+"""
+Age,Gender,Country
+39,M,South Africa
+25,M,Botswana
+29,F,South Africa
+46,M,South Africa
+22,F,Kenya
+35,F,Mozambique
+22,F,Lesotho
+49,M,Kenya
+30,M,Kenya
+40,F,Egypt
+30,M,Sudan"""
+
+age1 = 30
+age2 = 25
+age3 = 29
+
+
+age = [30, 25, 29, 46, 22]
+
+print(age)
+
+"""
+[30, 25, 29, 46, 22]
+"""
+
+print(age[0])
+
+"""print(age[1])
+
+print(min(age))
+
+"""
+22
+"""
+
+print(max(age))
+
+print(sum(age))
+
+print(len(age))
+
+"""
+[30, 25, 29, 46, 22]
+"""
+#print()
+
+
